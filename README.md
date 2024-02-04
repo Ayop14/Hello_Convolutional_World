@@ -16,7 +16,7 @@ My First Deep Learning Project on my own
   - Visualize the data the model is failing on. Can something be done?
   - Simulate an easy to solve problem with error analysis: All orange will be from cats, no orange-yellow-ish dogs.
 
-- Build a image classification model having learnt what it is above. Preferably one kaggle competition
+- Build a image classification model having learnt what it is above. Preferably one kaggle competition, both in torch and tensorflow
   - It will be needed an additional fine tunning of the learning rate hyperparameter.
 
 ## Structure
